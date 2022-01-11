@@ -1,0 +1,22 @@
+.nav{
+    height: 100%;
+    padding: 0px 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clientPseudo{
+    margin-top: 20px;
+    font-weight: 600;
+}
+.clientLogout{
+    margin-top: 10px;
+    margin-left: 10px;
+}
